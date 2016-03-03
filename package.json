@@ -1,0 +1,22 @@
+{
+  "name": "argyle-reader",
+  "version": "1.0.0",
+  "description": "Look at me",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "argyle-reader"
+  },
+  "keywords": [
+    "turtles"
+  ],
+  "author": "argyle-turtles",
+  "license": "MIT",
+  "dependencies": {
+    "serialport": "^2.0.6"
+  }
+}
